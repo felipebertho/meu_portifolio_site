@@ -229,7 +229,7 @@ a{
 .card-text{
     width: 50%;
     color: rgb ( 109, 109, 109);
-    font-family: 'Bebas Neue', cursive;
+    font-family: Bebas Neue, cursive;
     letter-spacing: 1px;
     color: white;
     
@@ -242,7 +242,7 @@ a{
     justify-content: center;
     align-items: center;
     position: relative;
-    font-family: Orbitron;
+    font-family: Bebas Neue, cursive;
 
 }
 
