@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Sarpanch:wght@600&display=swap');
-
 
 
 body {
@@ -19,14 +16,15 @@ body {
     height: 60vh;
     width: 100vw;
     background-color: whitesmoke;
+    background-image: url('./446984.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: cover;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
     box-sizing: border-box;
-    padding: 0 112px;
+    padding: 0 60px;
     position: relative;
 
 }
@@ -51,25 +49,26 @@ h2{
     font-family: Orbitron;
 }
 .social-media{
-    margin-top: 1rem;
+    margin-top: 2rem;
     display: flex;
 }
 .social-media a{
     text-decoration: none;
     color: black;
-    padding: 1rem 4rem;
+    padding: 1rem 2rem;
     border: 1px solid black;
     min-width: 4rem;
     align-items: center;
     justify-content: center;
-    transition: .5s ease-in-out;
+    transition: 0.6s ease-in-out;
 }
 
 a:hover {
-    background-color: rgb(63, 136, 247);
+    background-color: rgb(183, 186, 189);
 }
 a{
     font-family: Orbitron;
+    letter-spacing:1px;
 }
 
 .checkbox-container {
@@ -230,9 +229,10 @@ a{
 .card-text{
     width: 50%;
     color: rgb ( 109, 109, 109);
-    font-family: Sarpanch, sans-serif;
+    font-family: Orbitron, sans-serif;
     letter-spacing: 1px;
     color: white;
+    font-size: 15px;
     
 }
 
@@ -243,7 +243,7 @@ a{
     justify-content: center;
     align-items: center;
     position: relative;
-    font-family: Sarpanch, sans-serif;
+    font-family: Orbitron;
 
 }
 
@@ -310,6 +310,7 @@ a{
     font-size: 70px;
     font-family: Orbitron;
     text-transform: uppercase;
+    margin-bottom: auto;
    
 
   }
