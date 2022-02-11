@@ -1,7 +1,6 @@
 # meu_portifolio_site
-front-end developer website
+Portifolio
 
-Meu primeiro portifolio, criado unicamente por HTML5 e CSS3.
 
 Fontes utilizadas:
 
