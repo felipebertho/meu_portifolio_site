@@ -1,5 +1,19 @@
 # meu_portifolio_site
-Portifolio
+##Portifolio
+
+Um breve resumo das minhas skills em apenas uma página.
+
+Todas as implementações nesse portifolio serão feitas ao longo do tempo, até ficar 100% com a minha cara.
+
+
+
+####Informações do website
+
+Ferramentas:
+
+- HTML, CSS e Javascript
+
+*Não foi usado nenhum framework para criação, será implantado em breve.
 
 
 Fontes utilizadas:
